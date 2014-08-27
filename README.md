@@ -1,6 +1,6 @@
 Battleships in Python
 ====================
-####Life after Makers series
+####"Life after Makers" series - Episode 1
 
 After twelve weeks of [Makers Academy](http://www.makersacademy.com), I'm starting learning Python.
 This first repository in Python is just part of a challenge on [Code Academy](http://www.codeacademy.com)
